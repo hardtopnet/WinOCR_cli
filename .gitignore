@@ -1,6 +1,7 @@
 .venv/
 .vs/
 .git/
+.continue/
 build/
 dist/
 winocr_cli.spec

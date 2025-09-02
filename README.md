@@ -27,7 +27,7 @@ This project uses the [winocr library](https://github.com/GitHub30/winocr)
 ## Usage
 
 ```bash
-python winocr_cli.py --input path/to/image_or_pdf --output result.txt
+python winocr_cli.py --input path/to/image --output result.txt
 ```
 
 ### Options

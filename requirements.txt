@@ -1,0 +1,5 @@
+winocr
+pillow
+pdf2image
+pyinstaller
+numpy

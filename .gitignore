@@ -1,0 +1,7 @@
+.venv/
+.vs/
+.git/
+build/
+dist/
+winocr_cli.spec
+config.yaml
